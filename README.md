@@ -41,7 +41,7 @@ This course covers **core ML concepts** and **practical techniques** to build ro
 
 ### Data Leakage, Confounds and Imbalance data  
 - Types of leakage (test-to-train, feature-to-target) and mitigation strategies  
-- Handling imbalanced data, missing values, and confounds with SHAP  
+- Handling imbalanced data, missing values, and confounds 
 
 ---
 
@@ -53,4 +53,4 @@ This course covers **core ML concepts** and **practical techniques** to build ro
 
 ---
 
-👨‍💻👩‍💻 **See you in class!Happy learning!** 👨‍💻👩‍💻 
+👨‍💻👩‍💻 **See you in class! Happy learning!** 👨‍💻👩‍💻 
